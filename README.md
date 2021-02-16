@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
-**amoralesp88/amoralesp88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# My profile
 
-Hello everyone, I'm **Andrea Morales**, but you can call me Andre.
+I'm **Andrea Morales**, but you can call me Andre.
 
-🌎 I born in Guatemala, but I'm living in **Madrid**. 
+🌎 I was born in Guatemala, but I live in **Madrid**. 
 
 📰 I’m currently working as a **journalist**
 
@@ -14,7 +11,7 @@ Hello everyone, I'm **Andrea Morales**, but you can call me Andre.
 
 📚 Ironhack
 
-💻 You can follow me: [LinkedIn](https://www.linkedin.com/in/andrea-morales-polanco/) | & You can read some of my stories here [Medium](https://medium.com/@amoralesp88)
+💻 You can follow me on [LinkedIn](https://www.linkedin.com/in/andrea-morales-polanco/) | & also read some of my stories here [Medium](https://medium.com/@amoralesp88)
 
 👀 Checkout my repositories
 
